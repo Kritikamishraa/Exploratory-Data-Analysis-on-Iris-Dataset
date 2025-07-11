@@ -48,5 +48,9 @@ python iris_eda.py
 ```
 
 ---
-*By Kritika Mishra*
+
+**Kritika Mishra**  
+📧 Email: kritikamishraa12@gmail.com  
+🔗 [LinkedIn][(https://www.linkedin.com/in/kritika-mishra-578574317/) ](https://www.linkedin.com/in/kritika-mishra-578574317/) 
+    [GitHub][https://github.com/Kritikamishraa/Exploratory-Data-Analysis-on-Iris-Dataset]
 
